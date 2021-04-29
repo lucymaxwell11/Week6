@@ -1,0 +1,13 @@
+h1 {
+	display: block;
+	margin: 0 auto;
+}
+.container {
+	color: #ffffff;
+	background-color: rgb(17, 105, 142);
+}
+.card-body {
+	background-color: rgb(17, 105, 142);
+	border-radius: 20px;
+	border: rgb(17, 105, 142);
+}
